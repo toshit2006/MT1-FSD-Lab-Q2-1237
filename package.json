@@ -1,0 +1,25 @@
+{
+  "name": "mt1-fsd-lab-assessment",
+  "version": "1.0.0",
+  "description": "MT1 FSD Lab Assessment - Toshit Gupta (2503201001237)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toshit2006/MT1-FSD-Lab-Q2-1237.git"
+  },
+  "keywords": [],
+  "author": "Toshit Gupta (2503201001237)",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/toshit2006/MT1-FSD-Lab-Q2-1237/issues"
+  },
+  "homepage": "https://github.com/toshit2006/MT1-FSD-Lab-Q2-1237#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
